@@ -1,0 +1,26 @@
+.h1, .footer{
+    background-color: rgb(216, 18, 51);
+    text-align: center;
+    color: white;
+}
+
+.conteudo{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.cards{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.bd-example, .imagens{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.texto{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+}
